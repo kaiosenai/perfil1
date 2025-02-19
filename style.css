@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background: linear-gradient(to right,slateblue, lightblue);
+  background: linear-gradient(to right,rgb(255, 235, 52), rgb(7, 111, 196));
   font-family: 'Trebuchet MS';
   color: white;
 }
